@@ -1,0 +1,18 @@
+Unit Test cases for the program Speaking clock
+
+Test case 1: For input(00:00) || The output should be :It's Twelve'o clock Midnight
+
+Test case 2: For input(12:00) || The output should be :It's Twelve'o clock MidDay
+
+Test case 3: For input(3:15) || The output should be : It's Three Fifteen AM
+
+Test case 4: For input(9:45) || The output should be : It's Nine Fourty Five AM
+
+Test case 5: For input(15:14) || The output should be : It's Three Fourteen PM
+
+Test case 6: For input(20:20) || The output should be : It's Twenty twenty PM
+
+
+
+
+
